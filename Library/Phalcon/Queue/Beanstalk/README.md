@@ -2,7 +2,7 @@
 
 Extended `Phalcon\Queue\Beanstalk` class that supports tubes prefixes, `pcntl-workers` and tubes stats.
 
-Allows to use same `banstalkd` server to multiple projects.
+Allows to use same `beanstalkd` server to multiple projects.
 
 First add some tasks to the queues:
 
